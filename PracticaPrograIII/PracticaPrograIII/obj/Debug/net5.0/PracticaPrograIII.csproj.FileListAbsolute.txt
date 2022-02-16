@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\PracticaPrograIII.exe
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\PracticaPrograIII.deps.json
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\PracticaPrograIII.runtimeconfig.json
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\PracticaPrograIII.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\PracticaPrograIII.dll
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\ref\PracticaPrograIII.dll
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\bin\Debug\net5.0\PracticaPrograIII.pdb
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.dll
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\ref\PracticaPrograIII.dll
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.pdb
+C:\Users\Usuario\source\repos\PracticaPrograIII\PracticaPrograIII\obj\Debug\net5.0\PracticaPrograIII.genruntimeconfig.cache
