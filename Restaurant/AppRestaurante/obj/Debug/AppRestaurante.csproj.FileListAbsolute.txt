@@ -1,0 +1,15 @@
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\bin\Debug\AppRestaurante.exe.config
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\bin\Debug\AppRestaurante.exe
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\bin\Debug\AppRestaurante.pdb
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.csproj.AssemblyReference.cache
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\MainWindow.g.cs
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\App.g.cs
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante_MarkupCompile.cache
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante_MarkupCompile.lref
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\MainWindow.baml
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.g.resources
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.Properties.Resources.resources
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.csproj.GenerateResource.cache
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.csproj.CoreCompileInputs.cache
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.exe
+D:\Gestion_1-2022\Programacion III\Restaurant\AppRestaurante\obj\Debug\AppRestaurante.pdb
